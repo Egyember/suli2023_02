@@ -1,0 +1,23 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+
+.blur {
+    filter: blur(6px);
+}
+
+.text-overlay {
+    text-align: center;
+    color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.text-white {
+    color: white;
+}
