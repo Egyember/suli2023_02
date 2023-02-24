@@ -21,3 +21,9 @@ body{
 .text-white {
     color: white;
 }
+#main nav{
+padding: 10px
+}
+.content{
+padding-top: 20px
+}
