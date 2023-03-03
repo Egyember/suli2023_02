@@ -20,3 +20,7 @@ table, th, td {
  tr:nth-child(even) {
 background-color: #e6e6e6;;
     }
+
+.container{
+    padding-bottom: 25px;
+}
